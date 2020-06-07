@@ -1,0 +1,13 @@
+!creature | bird | mammal
+!bird | creature
+!mammal | creature
+!mammal | !bird | !creature
+!bird | robin | bluejay
+!robin | bird
+!bluejay | bird
+!robin | !bluejay | !bird
+!mammal | cat | dog
+!cat | mammal
+!dog | mammal
+!cat | !dog | !mammal
+creature

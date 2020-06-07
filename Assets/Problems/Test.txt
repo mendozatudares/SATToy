@@ -1,0 +1,12 @@
+a | b | c
+!a | !b | !c
+d | e | f
+!d | !e | !f
+g | h
+!g | !h
+!g | !b
+!h | b
+!a | h
+!g | c
+!b | f
+!c
